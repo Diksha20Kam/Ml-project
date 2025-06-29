@@ -42,7 +42,8 @@ It takes user input from a web form, processes the data using a custom pipeline,
 ## 📦 Installation & Run Locally
 
 ### 1. Clone the repository
-git clone https://github.com/Diksha20Kam/ml-flask-predictor.git
+git clone https://github.com/Diksha20Kam/Ml-project.git
+
 cd ml-flask-predictor
 
 ### 2. Create and activate virtual environment
